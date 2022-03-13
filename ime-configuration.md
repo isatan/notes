@@ -45,3 +45,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
       B-->D;
       C-->D;
 ```
+
+![IME設定](./images/1_ime.png)
