@@ -8,7 +8,7 @@ WSL 環境で Ubuntu が起動しなくなった場合の対処方法。
 
 あるときより、突然下記メッセージが表示され WSL 環境での Ubuntu が起動しなくなりました。
 
-![Ubuntu 起動エラー](../images/2-ubuntu-error.png)
+![Ubuntu 起動エラー](./images/2-ubuntu-error.png)
 
 ## 環境
 
@@ -24,7 +24,7 @@ WSL 環境で Ubuntu が起動しなくなった場合の対処方法。
 ```
 $ netsh winsock reset
 ```
-![Power Shellでのコマンド](../images/2-wsl-powershell.png)
+![Power Shellでのコマンド](./images/2-wsl-powershell.png)
 
 - これで Ubuntu を起動できました。  
 参考情報によると、VPN に接続している状態で発生するとの報告があり、確かにボクも VPN を利用していますが、その後発生していないので定かではありません。中途半端な情報でスミマセン。。
